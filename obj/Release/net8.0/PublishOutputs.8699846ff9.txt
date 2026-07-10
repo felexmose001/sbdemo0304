@@ -1,0 +1,7 @@
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\sbdemo0304.exe
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\sbdemo0304.dll
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\sbdemo0304.deps.json
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\sbdemo0304.runtimeconfig.json
+C:\Users\Lenovo\work\sbdemo0304\bin\Release\net8.0\publish\sbdemo0304.pdb
